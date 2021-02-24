@@ -1,4 +1,4 @@
-b# Image_to_ASCII-Art
+# Image_to_ASCII-Art
 Display image (video) in the form of character in terminal
 
 **src -> source code**</br>
